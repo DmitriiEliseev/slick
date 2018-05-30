@@ -1,0 +1,28 @@
+html{
+	background-color: black;
+	font-family: 'Roboto', sans-serif;
+}
+body{
+	margin: 0;
+	padding: 0;
+	overflow-x: hidden;
+}
+* {
+	box-sizing: border-box;
+	color:#ca65d8;
+}
+a {
+	text-decoration: none;
+}
+li {
+	list-style-type: none;
+}
+
+
+.main_slick{
+	max-width: 1000px;
+	margin: 50px auto;
+}
+.main_slick img{
+	max-width: 100%;
+}
